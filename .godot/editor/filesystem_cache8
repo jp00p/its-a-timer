@@ -1,12 +1,12 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1707930281
-export_presets.cfg::TextFile::-1::1707930225::0::1::::<><>::
+::res://::1707934810
+export_presets.cfg::TextFile::-1::1707932602::0::1::::<><>::
 icon.svg::CompressedTexture2D::7034204694836272759::1707232575::1707232580::1::::<><>::
-main.gd::GDScript::-1::1707888128::0::1::::<>Node2D<>::
-main.tscn::PackedScene::7553225983978803131::1707929929::0::1::::<><>::res://main.gd
+main.gd::GDScript::-1::1707932565::0::1::::<>Node2D<>::
+main.tscn::PackedScene::7553225983978803131::1707932632::0::1::::<><>::res://main.gd<>uid://crixbkttrybqw::::res://sounds/levelup_BibR50L.mp3<>uid://debiaikqf2ktx::::res://sounds/final-fantasy-vii-victory-fanfare-1.mp3<>uid://sj2jmj1xtsiy::::res://sounds/30h Fanfare 1.mp3<>uid://h25brpf7my80::::res://sounds/025 A Good Night's Rest.mp3<>uid://bmsuo35g70a4b::::res://sounds/17 - Victory!.mp3<>uid://d2xycahdax21c::::res://sounds/013 A Good Buddy.mp3<>uid://byrikwhbtmdk4::::res://sounds/2 - Track 2.mp3<>uid://plaoiwybdjh0::::res://sounds/911 Evil Mani Mani Statue.mp3<>uid://c8vgco7muttqw::::res://sounds/908 Spell Learned.mp3<>uid://jgiklo2cphsn::::res://sounds/907 Key Item Fanfare.mp3<>uid://cgt7xdepsxipp::::res://sounds/903 Unknown Jingle 1.mp3<>uid://cvjauy4ky76dc::::res://sounds/223 Fanfare 1.mp3<>uid://463iumcg5wlx::::res://sounds/217 Victory!.mp3<>uid://cejyctpy6v1su::::res://sounds/99 Victory.mp3<>uid://xeynsthuxqyc::::res://sounds/30j Fanfare 3.mp3
+README.md::TextFile::-1::1707932702::0::1::::<><>::
 ::res://export/::1707846453
-::res://export/final/::1707930244
-::res://export/final/rewards/::1707878020
+::res://export/final/::1707932618
 ::res://rewards/::1707845649
 ::res://sounds/::1707888050
 2 - Track 2.mp3::AudioStreamMP3::4106552113104710509::1707831982::1707833237::1::::<><>::
