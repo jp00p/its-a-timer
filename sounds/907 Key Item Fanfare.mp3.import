@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://jgiklo2cphsn"
+path="res://.godot/imported/907 Key Item Fanfare.mp3-63cf5e8f6d980c9a0dab2e8231e3f9e3.mp3str"
+
+[deps]
+
+source_file="res://sounds/907 Key Item Fanfare.mp3"
+dest_files=["res://.godot/imported/907 Key Item Fanfare.mp3-63cf5e8f6d980c9a0dab2e8231e3f9e3.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://xeynsthuxqyc"
+path="res://.godot/imported/30j Fanfare 3.mp3-fd9c028af8d27faabbd15f8d88534bc4.mp3str"
+
+[deps]
+
+source_file="res://sounds/30j Fanfare 3.mp3"
+dest_files=["res://.godot/imported/30j Fanfare 3.mp3-fd9c028af8d27faabbd15f8d88534bc4.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

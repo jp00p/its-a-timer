@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cgt7xdepsxipp"
+path="res://.godot/imported/903 Unknown Jingle 1.mp3-5bf1393d04cd4ba2d8ef74574a664bf4.mp3str"
+
+[deps]
+
+source_file="res://sounds/903 Unknown Jingle 1.mp3"
+dest_files=["res://.godot/imported/903 Unknown Jingle 1.mp3-5bf1393d04cd4ba2d8ef74574a664bf4.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
